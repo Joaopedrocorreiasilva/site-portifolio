@@ -9,7 +9,9 @@ Nesse curso você vai dominar todo **Git** e **Github** _do zero ao profissional
 * _Tralhando com **Branches.**_
 * _Usando **Github** de forma profissional._
 
-### Rede Social:
-### [**Instagram**](https://instagram.com/jott4pe.silva?igshid=ZDdkNTZiNTM=)
 
-### [**Twitter**](https://twitter.com/Pedro_villart)
+
+## Redes Social:
+##### [**Instagram**](https://instagram.com/jott4pe.silva?igshid=ZDdkNTZiNTM=)
+
+##### [**Twitter**](https://twitter.com/Pedro_villart)
