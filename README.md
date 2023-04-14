@@ -3,7 +3,11 @@
 Nesse curso você vai dominar todo **Git** e **Github** _do zero ao profissional._
 
 ## Módulos:
-_Entendendo oque é **git**, Aprendendo sobre repositorios, Tralhando com **Branches**_
+* _Entendendo oque é **git.**_
+* _Aprendendo sobre repositorios._ 
+* _**GIT** avançado._ 
+* _Tralhando com **Branches.**_
+* _Usando **Github** de forma profissional._
 
 ### Rede Social:
 ### [**Instagram**](https://instagram.com/jott4pe.silva?igshid=ZDdkNTZiNTM=)
