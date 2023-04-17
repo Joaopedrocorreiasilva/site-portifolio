@@ -15,3 +15,34 @@ Nesse curso você vai dominar todo **Git** e **Github** _do zero ao profissional
 ##### [**Instagram**](https://instagram.com/jott4pe.silva?igshid=ZDdkNTZiNTM=)
 
 #####  [**Twitter**](https://twitter.com/Pedro_villart)
+
+>Este é um blockquote, usado para destacar alguma area.
+
+**Comando para rodar o projeto:**
+
+```
+npm start
+```
+
+**Emxemplo de uso do negrito:**
+```js
+function showNamo(name){
+    return 'Bem Vindo:' + name;
+}
+```
+
+**Uso do componente HTML:**
+```html
+Titulo do projeto
+<h1>
+     <span>Curso Git<span>
+</h1>
+```
+
+**CSS padrao do projeto:**
+```css
+.titulo{
+    background-color: #FFF
+    color: #FF0000
+}
+```
