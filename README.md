@@ -14,4 +14,4 @@ Nesse curso você vai dominar todo **Git** e **Github** _do zero ao profissional
 ## Redes Social:
 ##### [**Instagram**](https://instagram.com/jott4pe.silva?igshid=ZDdkNTZiNTM=)
 
-##### [**Twitter**](https://twitter.com/Pedro_villart)
+#####  [**Twitter**](https://twitter.com/Pedro_villart)
