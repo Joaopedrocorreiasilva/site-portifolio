@@ -2,6 +2,11 @@
 # Bem vindo ao curso GIT e Github.
 Nesse curso você vai dominar todo **Git** e **Github** _do zero ao profissional._
 
+**Ulttimas updates:**
+- [x] Site responsivo.
+- [] Login com facebook.
+- [] pagina sobre a empresa.
+
 ## Módulos:
 * _Entendendo oque é **git.**_
 * _Aprendendo sobre repositorios._ 
@@ -26,7 +31,7 @@ npm start
 
 **Emxemplo de uso do negrito:**
 ```js
-function showNamo(name){
+function showName(name){
     return 'Bem Vindo:' + name;
 }
 ```
